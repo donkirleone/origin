@@ -1,0 +1,11 @@
+commit 87896499433a343441b3436309be6952f474a7b2 (HEAD -> logging, origin/master, master)
+Author: unknown <done.kirov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:29:56 2018 +0200
+
+    modify l1.txt
+
+commit 2ca36bfdc0b14396e0bc72ca0e365db7a5892dfc
+Author: unknown <done.kirov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:27:17 2018 +0200
+
+    Initial commit
